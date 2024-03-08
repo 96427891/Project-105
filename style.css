@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 171, 61);
+    border-color: blue;
+    border-width:6px;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 55px;
+}
+button{
+    font-size: 35px;
+    border-color: blue;
+    border-width:2px;
+    background-color: chartreuse;
+}
